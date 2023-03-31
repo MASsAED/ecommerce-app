@@ -233,7 +233,7 @@ const Home = () => {
             </div>
             <div className="col-3">
               <div className="famous-card position-relative">
-                <img src="images/laptop-2.jpg" className="img-fluid" alt="famous" />
+                <img src="images/watchb.jpg" className="img-fluid" alt="famous" />
                 <div className="famous-content position-absolute">
                   <h5 className="text-dark">Studio Display</h5>
                   <h6 className="text-dark">600 nits of brightness</h6>
@@ -243,7 +243,7 @@ const Home = () => {
             </div>
             <div className="col-3">
               <div className="famous-card position-relative">
-                <img src="images/phone.webp" className="img-fluid" alt="famous" />
+                <img src="images/watchb.jpg" className="img-fluid" alt="famous" />
                 <div className="famous-content position-absolute">
                   <h5 className="text-dark">SmartPhones</h5>
                   <h6 className="text-dark">Smart Phone 13 pro.</h6>
@@ -253,7 +253,7 @@ const Home = () => {
             </div>
             <div className="col-3">
               <div className="famous-card position-relative">
-                <img src="images/laptop-2.jpg" className="img-fluid" alt="famous" />
+                <img src="images/watchb.jpg" className="img-fluid" alt="famous" />
                 <div className="famous-content position-absolute">
                   <h5 className="text-dark">HomeSpeakers</h5>
                   <h6 className="text-dark">Room Filling-Sound</h6>
